@@ -13,7 +13,7 @@ The dataset presented challenges like non-linear relationships among features, o
 **Model Development**: Implemented a Multiple Linear Regression model and evaluated its performance.
 
 **Results**:
-Achieved an accuracy of 86.77% after preprocessing and feature engineering.
+Achieved an accuracy of 90.77% after preprocessing and feature engineering.
 The model demonstrated a significant improvement in performance and successfully captured non-linear patterns in the data.
 
 **Key Learnings**:
